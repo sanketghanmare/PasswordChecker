@@ -4,7 +4,7 @@ Designed and Developed a Password checker using Python which runs the password e
 
 To run this pass word checker user needs to run the checkmypass.py file using the following command:
 
-# python3 checkmypass "any password of choice" 
+## python3 checkmypass "any password of choice" 
 
 wait for few moments and the checker will log the result on console.
 
